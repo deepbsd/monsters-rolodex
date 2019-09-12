@@ -15,5 +15,10 @@ with the following:
 1. I used npm instead of yarn as the instructor did.  (I had to translate the commands on the CLI and in package.json)
 2. I already have a deployment at deepbsd.github.io that might interfere with deepbsd.github.io/monsters-rolodex
 
-As I look at the page with inspector tools, I see a webpack minified script was supposed to create the page, but unfortunately it
-didn't.  There were a number of resources that simply aren't available apparently.  The build script failed.  Not sure how or why.
+I don't know if either of these affects how gh-pages operates, but comparing my gh-pages branch with the instructor's,
+I had almost none of the assets his gh-branch has, so I concluded that gh-pages module did NOT work for me.
+Since the instructor only mentioned yarn and didn't mention npm, and since the problem appears to be a time sink
+that will not produce a result worth the time spent on it, I'm not going to bother further with deploying using
+gh-pages.
+
+What you see is what I got.  
