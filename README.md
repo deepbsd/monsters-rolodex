@@ -1,6 +1,6 @@
 # Monsters Rolodex
 
-Fun little app that fetches a list of users from typicode.com, grabs a random image from robohash.org, 
+Fun little app that fetches a list of users from typicode.com, grabs a random monster image from robohash.org, 
 and creates a little rolodex type card with a "monster's" name and email.  
 
 I've worked on larger react apps, but it's been a little while and this looked fun.
