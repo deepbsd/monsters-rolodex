@@ -15,4 +15,5 @@ with the following:
 1. I used npm instead of yard as the instructor did.  (I had to translate the commands on the CLI and in package.json)
 2. I already have a deployment at deepbsd.github.io that might interfere with deepbsd.github.io/monsters-rolodex
 
-
+As I look at the page with inspector tools, I see a webpack minified script was supposed to create the page, but unfortunately it
+didn't.  There were a number of resources that simply aren't available apparently.  The build script failed.  Not sure how or why.
