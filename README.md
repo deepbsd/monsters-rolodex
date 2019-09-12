@@ -12,7 +12,7 @@ My only regret at this point is that the gh-pages deploy didn't work.  For some 
 that page and have it render.  The app runs locally just fine though.  This might have something to do 
 with the following:
 
-1. I used npm instead of yard as the instructor did.  (I had to translate the commands on the CLI and in package.json)
+1. I used npm instead of yarn as the instructor did.  (I had to translate the commands on the CLI and in package.json)
 2. I already have a deployment at deepbsd.github.io that might interfere with deepbsd.github.io/monsters-rolodex
 
 As I look at the page with inspector tools, I see a webpack minified script was supposed to create the page, but unfortunately it
